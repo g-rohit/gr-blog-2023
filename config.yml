@@ -54,7 +54,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Discover insightful articles and expert perspectives on technology, web development, and more at blog.grohit.com. Stay updated with the latest trends and innovations in the digital world."
     author: G Rohit
     # author: ["Me", "You"] # multiple authors
 
@@ -71,7 +71,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"]
 
     profileMode:
         enabled: false
