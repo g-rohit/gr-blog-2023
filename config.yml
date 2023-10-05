@@ -1,4 +1,4 @@
-baseURL: "https://gohit.com"
+baseURL: "https://blog.gohit.com"
 languageCode: en-us
 title: TheCodeMonger
 theme: PaperMod
@@ -28,14 +28,17 @@ languages:
         menu:
             main:
                 - name: Archive
-                  url: archives
+                  url: archives/
                   weight: 5
                 - name: Search
                   url: search/
                   weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 20
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 25
                 - name: Portfolio
                   url: https://grohit.com
                 # - name: Discord
@@ -87,7 +90,7 @@ params:
         imageUrl: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
         Title: "G Rohit's Blog"
         Content: >
-            - Hi there 👋🏻, I'm a front-end maestro, web aficionado, tech fanatic, and ...... ok ok ok, so enough of Sesquipedalian. In simple terms, I am a Front end developer and designer and a proactive explorer, who is passionate about computers, technology, and music.
+            - Hi there 👋🏻, I'm a front-end maestro, web aficionado, tech fanatic, and ...... ok ok ok, so enough of sesquipedalians. In simple terms, I am a Front end developer and designer and a proactive explorer, who is passionate about computers, technology, and music.
 
             -
 
@@ -121,7 +124,7 @@ params:
 
     assets:
         disableHLJS: true
-    #     favicon: "<link / abs url>"
+        favicon: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"

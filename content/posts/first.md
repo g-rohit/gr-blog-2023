@@ -3,8 +3,13 @@ title: "First Post"
 summary: Yo read mah first post
 date: "2023-10-04"
 draft: false
-tags: [first]
+tags: ['first']
+categories: ['misc']
 author: "G Rohit"
+cover: 
+    image: img/grblog-darkmode.webp
+    alt: 'grblog-darkmode.webp'
+    Caption: grohit's blog in darkmode
 ---
 
 Hello this is my first post
