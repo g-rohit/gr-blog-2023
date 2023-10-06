@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-142315691-1
 
 minify:
     disableXML: true
