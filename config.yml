@@ -70,16 +70,16 @@ params:
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
     ShowToc: true
-    # comments: false
+    comments: true
     images: ["https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"]
 
     profileMode:
         enabled: false
-        title: PaperMod
+        title: G Rohit
         imageUrl: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
         imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 120
+        imageHeight: 120
         buttons:
             - name: Archives
               url: archives
@@ -90,7 +90,7 @@ params:
         imageUrl: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
         Title: "G Rohit's Blog"
         Content: >
-            - Hi there 👋🏻, I'm a front-end maestro, web aficionado, tech fanatic, and ...... ok ok ok, so enough of sesquipedalians. In simple terms, I am a Front end developer and designer and a proactive explorer, who is passionate about computers, technology, and music.
+            - Hi there 👋🏻, I’m a front-end maestro, web aficionado, tech fanatic, and... okay, okay, enough of these neologisms. In simple terms, I am a Front-end Developer and Designer and a proactive explorer, who is passionate about computers, technology, and music. 🖥️✨🎵
 
             -
 
@@ -118,17 +118,17 @@ params:
     #     icon: icon.png
     #     iconHeight: 35
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+        google:
+            SiteVerificationTag: "UA-142315691-1"
 
     assets:
         disableHLJS: true
         favicon: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+        favicon16x16: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
+        favicon32x32: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
+        apple_touch_icon: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
+        safari_pinned_tab: "https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
