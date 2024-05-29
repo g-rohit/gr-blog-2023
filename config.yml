@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-googleAnalytics: UA-142315691-1
+googleAnalytics: G-PK54SNGBVQ
 
 minify:
     disableXML: true
@@ -53,10 +53,7 @@ outputs:
         - JSON
 
 params:
-<<<<<<< HEAD
     # dateFormat = "January 2, 2006"
-=======
->>>>>>> 1c92bd5842e794e762529efa12796685aff5a355
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Discover insightful articles and expert perspectives on technology, web development, and more at blog.grohit.com. Stay updated with the latest trends and innovations in the digital world."
     author: G Rohit
@@ -115,6 +112,8 @@ params:
           url: "https://codepen.io/grohit"
         - name: Rss
           url: "index.xml"
+        - name: Instagram
+          url: "https://www.instagram.com/DeveloperGRohit/"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
