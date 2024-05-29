@@ -63,7 +63,11 @@ body:not(.dark) #sun {
 }
 
 #menu a {
+<<<<<<< HEAD
     font-size: 1rem;
+=======
+    font-size: 16px;
+>>>>>>> 1c92bd5842e794e762529efa12796685aff5a355
 }
 
 #menu .active {
@@ -92,6 +96,7 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+<<<<<<< HEAD
 
 .small {
     font-size: 0.75em;
@@ -104,3 +109,5 @@ body:not(.dark) #sun {
     }
     
 }
+=======
+>>>>>>> 1c92bd5842e794e762529efa12796685aff5a355
