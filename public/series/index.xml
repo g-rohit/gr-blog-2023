@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on TheCodeMonger</title>
+    <link>http://localhost:62563/series/</link>
+    <description>Recent content in Series on TheCodeMonger</description>
+    <image>
+      <title>TheCodeMonger</title>
+      <url>https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp</url>
+      <link>https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:62563/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

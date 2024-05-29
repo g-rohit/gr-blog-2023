@@ -1,0 +1,52 @@
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+    --theme: hsl(0, 0%, 100%);
+    /* --theme: #7A7D68; */
+    --entry: hsl(261, 10%, 98%);
+    /* --entry: #F4F4F4; */
+    --primary: hsl(261, 100%, 50%);
+    /* --primary: #6A63DD; */
+    --secondary: hsl(261, 100%, 20%);
+    --tertiary: hsl(261, 100%, 60%);
+    --content: hsl(261, 0%, 12%);
+    --hljs-bg: hsl(240, 10%, 11%);
+    /* --code-bg: hsl(0, 0%, 96%); */
+    --code-bg: #F7F5F2;
+    --border: hsl(261, 100%, 90%);    
+    --box-shadow: hsl(261 10% 60% / 60%);
+    --purple-light: hsl(261,100%,80%);
+    --links: hsl(16, 100%, 50%);
+    /* --links: #2400ff; */
+
+   
+}
+
+.dark {
+    --theme: hsl(261, 80%, 10%);
+    --entry: hsl(261, 100%, 15%);
+    --primary: hsl(261, 100%, 95%);
+    --secondary: hsl(261, 100%, 80%);
+    --tertiary: hsl(261, 100%, 70%);
+    --content: hsl(261 100% 90% / 1);
+    --hljs-bg: hsl(231, 9%, 20%);
+    --code-bg: hsl(231, 9%, 24%);
+    --border: hsl(261, 100%, 60%);
+    --box-shadow: hsl(261 100% 60% / 60%);
+    --purple-light: hsl(261,100%,40%);
+    --links: #FFD609;
+    
+}
+
+.list {
+    background: var(--code-bg);
+}
+
+.dark.list {
+    background: var(--theme);
+}

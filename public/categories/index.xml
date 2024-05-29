@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on TheCodeMonger</title>
+    <link>http://localhost:62563/categories/</link>
+    <description>Recent content in Categories on TheCodeMonger</description>
+    <image>
+      <title>TheCodeMonger</title>
+      <url>https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp</url>
+      <link>https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62563/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Tools</title>
+      <link>http://localhost:62563/categories/ai-tools/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/categories/ai-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast</title>
+      <link>http://localhost:62563/categories/fast/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/categories/fast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

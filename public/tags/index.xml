@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on TheCodeMonger</title>
+    <link>http://localhost:62563/tags/</link>
+    <description>Recent content in Tags on TheCodeMonger</description>
+    <image>
+      <title>TheCodeMonger</title>
+      <url>https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp</url>
+      <link>https://gr-reactjs.vercel.app/static/media/gr-logo-640px-webp.07945e37027d5261a290.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62563/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai Tools</title>
+      <link>http://localhost:62563/tags/ai-tools/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/tags/ai-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatbot</title>
+      <link>http://localhost:62563/tags/chatbot/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chatgpt</title>
+      <link>http://localhost:62563/tags/chatgpt/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:62563/tags/blog/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:62563/tags/hugo/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:62563/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
