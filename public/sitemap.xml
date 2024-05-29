@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60192/tags/ai-tools/</loc>
+    <loc>http://localhost:64304/tags/ai-tools/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/categories/ai-tools/</loc>
+    <loc>http://localhost:64304/categories/ai-tools/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/categories/</loc>
+    <loc>http://localhost:64304/categories/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/tags/chatbot/</loc>
+    <loc>http://localhost:64304/tags/chatbot/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/tags/chatgpt/</loc>
+    <loc>http://localhost:64304/tags/chatgpt/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/posts/</loc>
+    <loc>http://localhost:64304/posts/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/tags/</loc>
+    <loc>http://localhost:64304/tags/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/posts/the-most-visited-ai-tools-in-2024/</loc>
+    <loc>http://localhost:64304/posts/the-most-visited-ai-tools-in-2024/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/</loc>
+    <loc>http://localhost:64304/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/tags/blog/</loc>
+    <loc>http://localhost:64304/tags/blog/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/categories/fast/</loc>
+    <loc>http://localhost:64304/categories/fast/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/posts/how-i-made-this-blog/</loc>
+    <loc>http://localhost:64304/posts/how-i-made-this-blog/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/tags/hugo/</loc>
+    <loc>http://localhost:64304/tags/hugo/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60192/archives/</loc>
+    <loc>http://localhost:64304/archives/</loc>
   </url><url>
-    <loc>http://localhost:60192/search/</loc>
+    <loc>http://localhost:64304/search/</loc>
   </url><url>
-    <loc>http://localhost:60192/series/</loc>
+    <loc>http://localhost:64304/series/</loc>
   </url>
 </urlset>

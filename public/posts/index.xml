@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on TheCodeMonger</title>
-    <link>http://localhost:60192/posts/</link>
+    <link>http://localhost:64304/posts/</link>
     <description>Recent content in Posts on TheCodeMonger</description>
     <image>
       <title>TheCodeMonger</title>
@@ -11,13 +11,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60192/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64304/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Most Visited AI Tools in 2024</title>
-      <link>http://localhost:60192/posts/the-most-visited-ai-tools-in-2024/</link>
+      <link>http://localhost:64304/posts/the-most-visited-ai-tools-in-2024/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60192/posts/the-most-visited-ai-tools-in-2024/</guid>
+      <guid>http://localhost:64304/posts/the-most-visited-ai-tools-in-2024/</guid>
       <description>Unless you&amp;rsquo;ve been in hibernation, ChatGPT has probably crossed your radar. If not, well, your well-insulated cave is due for an AI wake-up call!
 And in case you&amp;rsquo;re already in the know about ChatGPT, get ready to be thrilled because there&amp;rsquo;s a whole AI universe out there.
 Today, we&amp;rsquo;re diving into the year&amp;rsquo;s hottest AI tools that have the whole world talking!
@@ -26,10 +26,10 @@ Today, we&amp;rsquo;re diving into the year&amp;rsquo;s hottest AI tools that ha
     
     <item>
       <title>First Post: How I made this blog site</title>
-      <link>http://localhost:60192/posts/how-i-made-this-blog/</link>
+      <link>http://localhost:64304/posts/how-i-made-this-blog/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60192/posts/how-i-made-this-blog/</guid>
+      <guid>http://localhost:64304/posts/how-i-made-this-blog/</guid>
       <description>So what tech stack this blog is using and how I set this up</description>
     </item>
     
